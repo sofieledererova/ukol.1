@@ -5,15 +5,15 @@ div {
     align-items: center;
     background-color: lightcyan;
     color: black;
-    width: 75%;
+    width: 50%;
     height: 100px;
     margin: 20px;
 }
 
 p: {
-    color: black;
+    color: purple;
 
 }
 p:hover {
-     color: red;
+     color: blue;
     }
