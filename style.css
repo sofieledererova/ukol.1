@@ -4,10 +4,10 @@ div {
     grid-template-rows: 100px auto 30% 1fr;
     align-items: center;
     background-color: lightcyan;
-    color: black;
+    color: pink;
     width: 50%;
-    height: 100px;
-    margin: 20px;
+    height: 90px;
+    margin: 10px;
 }
 
 p: {
