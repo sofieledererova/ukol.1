@@ -1,6 +1,6 @@
 div {
     display: grid;
-    grid-template-columns: 100px auto 30% 1fr;
+    grid-template-columns: repeat(3, 250px);
     grid-template-rows: 100px auto 30% 1fr;
     align-items: center;
     background-color: lightcyan;
