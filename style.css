@@ -10,10 +10,10 @@ div {
     margin: 10px;
 }
 
-p: {
+h1: {
     color: purple;
 
 }
-p:hover {
+h1:hover {
      color: blue;
     }
